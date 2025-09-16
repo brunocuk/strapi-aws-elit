@@ -1,0 +1,43 @@
+{
+  "kind": "collectionType",
+  "collectionName": "homepage_forms",
+  "info": {
+    "singularName": "homepage-form",
+    "pluralName": "homepage-forms",
+    "displayName": "homepageForm"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": false
+    }
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "phoneNumber": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "location": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "budget": {
+      "type": "string"
+    },
+    "squareM": {
+      "type": "string"
+    },
+    "additional": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_global_faqs",
+  "info": {
+    "displayName": "faq",
+    "icon": "check"
+  },
+  "options": {},
+  "attributes": {
+    "question": {
+      "type": "string"
+    },
+    "answer": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}
